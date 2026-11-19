@@ -1,0 +1,28 @@
+{
+  "rows": 1034,
+  "unique_games": 1031,
+  "genres": 17,
+  "publishers_non_null": 152,
+  "missing_year": 209,
+  "missing_publisher": 209,
+  "zero_global_sales_rows": 322,
+  "duplicate_rows": 0,
+  "duplicate_game_names": 3,
+  "global_sales_total": 595.64,
+  "regional_share_pct": {
+    "North America": 35.52,
+    "Europe": 43.18,
+    "Japan": 5.84,
+    "Rest of World": 15.45
+  },
+  "top_game": {
+    "name": "Grand Theft Auto V",
+    "global_sales": 19.39
+  },
+  "top_genre_by_total_sales": "Action",
+  "top_publisher_by_total_sales": "Activision",
+  "temporal_analysis_window": [
+    2013,
+    2018
+  ]
+}
